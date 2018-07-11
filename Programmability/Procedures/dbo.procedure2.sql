@@ -1,7 +1,7 @@
 ﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
 GO
 
-CREATE   PROCEDURE [dbo].[procedure22]
+CREATE   PROCEDURE [dbo].[procedure2]
 AS
     DECLARE @mynvarchar NVARCHAR(50),
             @myfloat FLOAT

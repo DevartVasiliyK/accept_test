@@ -1,0 +1,2 @@
+﻿CREATE FULLTEXT STOPLIST [myStoplist_copy] AUTHORIZATION [dbo];
+GO

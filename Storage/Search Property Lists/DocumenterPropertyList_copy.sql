@@ -1,0 +1,2 @@
+﻿CREATE SEARCH PROPERTY LIST [DocumenterPropertyList_copy] AUTHORIZATION [dbo];
+GO

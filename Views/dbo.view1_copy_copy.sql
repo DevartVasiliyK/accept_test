@@ -1,0 +1,6 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE     VIEW [dbo].[view1_copy_copy] 
+AS SELECT * FROM doc_views.TABLES t2
+GO

@@ -1,0 +1,6 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE   VIEW [dbo].[view3] 
+AS SELECT * FROM all_datatypes a
+GO

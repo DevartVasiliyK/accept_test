@@ -1,0 +1,3 @@
+﻿CREATE FULLTEXT CATALOG [ft_2_copy]
+  AUTHORIZATION [dbo]
+GO
